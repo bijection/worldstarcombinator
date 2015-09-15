@@ -57,7 +57,12 @@ class Header extends React.Component {
 
             <span className="pagetop">
             <b><Link to="/">World Star Combinator</Link></b>
-            <Link to="about"><span className='about'>about</span></Link>
+            <span className='about'>
+                <a href='https://github.com/bijection/worldstarcombinator'>github</a>
+                {' | '}
+                <Link to="about">about</Link>
+            </span>
+            <span className='about'></span>
 
             </span>
 
