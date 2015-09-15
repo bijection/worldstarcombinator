@@ -1,11 +1,12 @@
 # World Star Combinator
 [World Star Hip Hop](http://www.worldstarhiphop.com/videos/) and [Hacker News](https://news.ycombinator.com) should be friends.
 
-Built with react + browserify. So static, much wow, blog soon.
+# Demo
+[Here](http://worldstarcombinator.com/)
 
 # Install
 
-First install npm [npm](http://npmjs.org) and [gulp](http://gulpjs.com/). Then
+First install [npm](http://npmjs.org) and [gulp](http://gulpjs.com/). Then
 
 ```
 npm install
@@ -14,6 +15,11 @@ gulp styles
 gulp watch
 ```
 
-# How Did I Make It?
-## react and browserify
-### Such static, much wow
+# How Does it made?
+react and browserify
+
+# Such static, much wow
+wow
+
+# Who did this?
+[omrelli.ug](http://omrelli.ug)
