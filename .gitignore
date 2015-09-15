@@ -1,4 +1,8 @@
 .DS_Store
 node_modules
-dev
-dist
+dev/img
+dev/scripts
+dev/styles
+dist/img
+dist/scripts
+dist/styles
