@@ -15,7 +15,7 @@ gulp styles
 gulp watch
 ```
 
-# How Does it made?
+# How does it made?
 react and browserify
 
 # Such static, much wow
