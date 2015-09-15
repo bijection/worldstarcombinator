@@ -1,0 +1,33 @@
+{
+  "name": "worldstarcombinator.com",
+  "version": "1.0.0",
+  "description": "No. 1 News Source",
+  "dependencies": {
+    "babelify": "^6.3.0",
+    "babel": "^5.8.23",
+    "browserify": "^11.1.0",
+    "events": "^1.0.2",
+    "gulp": "^3.9.0",
+    "gulp-cache": "^0.3.0",
+    "gulp-autoprefixer": "^3.0.1",
+    "firebase": "^2.2.9",
+    "gulp-livereload": "^3.8.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-notify": "^2.2.0",
+    "react": "^0.13.3",
+    "gulp-uglify": "^1.4.1",
+    "react-ga": "^1.1.0",
+    "react-infinite-scroll": "^0.1.5",
+    "react-spinner": "^0.2.2",
+    "react-router": "^0.13.3",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omrelli.ug",
+  "license": "MIT"
+}
