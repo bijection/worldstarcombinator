@@ -207,7 +207,7 @@ class WSComment extends React.Component {
 
         return <div className='comment comment--worldstar'>
             <div className='comhead'>
-                {author.name} {ago((new Date(createdAt)).getTime()/1000)} ago
+                {author.name} {ago((new Date(createdAt + 'Z')).getTime()/1000)} ago
             </div>
             <div className='comment-body' dangerouslySetInnerHTML={{__html: message}} />
             {children && children.map(comment => <WSComment data={comment} key={comment.id} />)}
